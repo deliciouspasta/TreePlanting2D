@@ -1,3 +1,3 @@
 # TreePlanting2D
 
-If you want to see script, please refer to Asset/script
+If you want to see the script, please refer to Asset/Script
